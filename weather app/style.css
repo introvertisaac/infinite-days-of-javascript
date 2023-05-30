@@ -10,3 +10,8 @@
     width: 400px;
 }
 
+button {
+    background-color: black;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
